@@ -1,5 +1,4 @@
-#### 🌐 Personal GitHub Website
-#### [🔗 sinae99.github.io](https://sinae99.github.io/)
+#### 🌐 Sina
 
 + Repositories and Documents
-+ My CV and Certs
+
