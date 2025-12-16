@@ -4,4 +4,5 @@
 
 
 
-#### + Technical Documentation Samples
+#### - my study notes
+#### - technical documentation samples
