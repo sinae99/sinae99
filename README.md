@@ -5,7 +5,7 @@
 
 #### - ` technical documentation `
 
-#### -  my study notes + personal docs `
+#### - ` my study notes + personal docs `
 
 
 
