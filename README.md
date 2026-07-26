@@ -1,3 +1,6 @@
+#### **Computer Science graduate**
+
+#### **DevOps Engineer**
 
 
 #### - ` my tools & projects `
