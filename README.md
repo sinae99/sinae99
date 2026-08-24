@@ -13,7 +13,7 @@
 
 
 
-#### - ` my tools & projects `
+#### - ` my projects & labs `
 
 #### - ` notes + personal docs `
 
