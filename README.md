@@ -1,21 +1,8 @@
 
 
+##### - ` my projects & labs `
 
-
-
-#### **Computer Science graduate**
-
-#### **DevOps Engineer**
-
-
-
------------------------------------
-
-
-
-#### - ` my projects & labs `
-
-#### - ` notes + personal docs `
+##### - ` notes + personal docs `
 
 
 
