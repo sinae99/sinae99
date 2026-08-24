@@ -7,7 +7,6 @@
 
 #### **DevOps Engineer**
 
-#### [sinae99.github.io](https://sinae99.github.io)
 
 
 -----------------------------------
